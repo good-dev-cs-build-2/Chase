@@ -39,3 +39,5 @@ module.exports = {
 // curl -X GET -H 'Authorization: Token 13f7bafefeee05c37111443f627ed393005c242a' https://lambda-treasure-hunt.herokuapp.com/api/bc/last_proof/
 
 // {"name": "[GAR DOG THE GREAT]", "cooldown": 1.0, "encumbrance": 0, "strength": 10, "speed": 10, "gold": 600, "inventory": [], "status": [], "has_mined": true, "errors": [], "messages": []}Chases-iMac-2:~ chasegarsee$
+
+// curl -X GET -H 'Authorization: Token 13f7bafefeee05c37111443f627ed393005c242a' https://lambda-treasure-hunt.herokuapp.com/api/bc/get_balance/
